@@ -1,5 +1,5 @@
 # barrels
-> (_) barrels - is a storing something for darn near forever? Thats what barrels do!
+> (_) barrels - are for storing stuff for darn near forever... Ain't that what barrels do?
 
 ------------
 ![license: MIT](https://img.shields.io/github/license/federalies/barrels.svg) 
